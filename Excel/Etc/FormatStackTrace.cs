@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Text;
 
-namespace Jbpc.Common
+namespace Jbpc.Common.Excel
 {
     public static class FormatStackTrace
     {
