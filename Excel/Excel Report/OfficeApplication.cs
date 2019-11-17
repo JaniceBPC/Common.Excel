@@ -20,7 +20,7 @@ namespace Jbpc.Common.Excel
         }
         private void InstantiateApplication()
         {
-            application = new ApplicationClass();
+            application = new Microsoft.Office.Interop.Excel.Application();
         }
         public void ReleaseApplication()
         {
