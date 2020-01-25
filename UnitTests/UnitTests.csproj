@@ -73,9 +73,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Excel.csproj">
+    <ProjectReference Include="..\Jbpc.Excel.csproj">
       <Project>{db64f2f1-f76c-4fec-b4b2-a065236686ce}</Project>
-      <Name>Excel</Name>
+      <Name>Jbpc.Excel</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
